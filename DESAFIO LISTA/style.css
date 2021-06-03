@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+}
+
+body{
+    background: url(media/kelly-sikkema-dgVSuJu58C0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav{
+    margin-top: 60px;
+}
+
+.titulo{
+text-align: center;
+margin-top: 20px;
+}
+
+
+.add{
+    margin-left: 44%;
+    margin-top: 10px;
+}
+.centro h3,h4{
+    text-align: center;
+}
+h3{
+    margin-top: 20px;
+}
+h4{
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+}
